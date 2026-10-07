@@ -1,0 +1,16 @@
+Requisitos por prioridade:
+
+Prioridade	Requisito
+Alta 		Adicionar/editar casas e valor a cobrar
+Alta 		Registar serviço (data, duração, valor)
+Alta 		Calcular preço final do serviço
+Alta 		Lista de dívidas por casa (por pagar)
+Média 		Relatórios mensais
+Média 		Notas por serviço
+Baixa 		Newsletter / lembretes de pagamento
+
+Stakeholders:
+
+Quem					Papel
+Empregado de limpeza 	independente	Usa o sistema (utilizador principal)
+Clientes/casas		Afetados 	indiretamente — recebem os serviços

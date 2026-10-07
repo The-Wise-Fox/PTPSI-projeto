@@ -1,0 +1,11 @@
+Equipa:
+Dinis: Base de dados e backend.
+Samuel:Layouts, frontend e relatório.
+
+
+
+Tecnologias:
+
+HTML, CSS no frontend e JavaScript front e backend; 
+Node.js no servidor; MySQL na base de dados.​
+Porque:já as usámos nas aulas e ambos as dominamos.​

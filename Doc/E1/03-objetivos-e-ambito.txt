@@ -1,0 +1,17 @@
+O que vamos fazer : ​
+	Adicionar casas e definir o valor a cobrar por cada uma.​
+	Cálculo do preço final de cada serviço prestado.​
+	Registo de serviço: quanto demorou e quanto há a pagar por aquele serviço​
+	Lista de dividas por casa: quanto está ainda por pagar​
+
+
+O que podemos fazer : ​
+	NewsLetter sistema de relembrar que tal casa tem x de pagar​
+	Relatórios mensais​
+	Notas por serviço​
+
+
+Nao vamos fazer :​
+	Metodos de pagamento;​
+	Lado de clientes ex.Procuraçao de empregados ​
+	(se pensares de alguma coisa diz e mete aqui)​

@@ -1,0 +1,11 @@
+Quem tem o problema: Empregados de limpeza independentes (trabalhadores por conta própria) que prestam serviços domésticos a vários clientes/casas.
+
+Como resolvem hoje: Usam cadernos de papel para anotar as horas trabalhadas, o valor a cobrar e quando/o que já foi pago. Aceitam pagamentos por vários meios (MBWay, dinheiro à mão, transferência, etc.).
+
+
+O que isso lhes custa:
+Perda de tempo a registar e a consultar as informações manualmente.
+Confusão na gestão de pagamentos — muitas vezes não sabem se aquele cliente já pagou ou não.
+Risco de esquecer dívidas ou de cobrar a mais/a menos.
+Falta de visão global de quanto têm a receber no total.
+Como usam modos de pagamento diferentes, é difícil cruzar a informação e saber o que está em falta.

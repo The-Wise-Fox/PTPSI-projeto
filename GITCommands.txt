@@ -1,0 +1,8 @@
+git init(novas pastas/projetos)
+git remote add origin [new_repo_path].git (aponta para onde)
+git add . (Adiciona todos os ficheiros)
+git commit -m "(resumo o que vai ser commitado)"
+git log  
+git branch -m (nome do branch)
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+git push -u origin main

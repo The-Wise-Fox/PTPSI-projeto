@@ -1,0 +1,24 @@
+design :
+cores principais e secundarias : 
+tamanho de letra :
+estilo de letra :
+
+
+Paginas : 
+
+index  : descreve o que vamos fazer , quanto esta com o login tambem mostra uma secçao que mostra um overview de certas coisas (ainda nao esta decidido tenho que falar com a minha mae)
+login/registar conta tambem recuperar palavra-passe : 
+ecra principal: 
+	mostra essencialmente todo tipo overview com graficos(?)
+	dividido por tabs :
+		- home(o que esta em cima)
+		- dias trabalhados (?) 
+		- Locais de trabalho(detalhes completos do local) 
+		- serviços (detalhes de cada serviço e quanto costa por hora , mas depois no dia trabalhado o diz quantas horas e o sistema calcula o resto)
+Home : 
+
+Dias trabalhados :
+
+Locais de trabalho :
+
+Serviços

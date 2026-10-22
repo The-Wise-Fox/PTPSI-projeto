@@ -1,0 +1,32 @@
+Contraste
+
+Texto principal				#20382E sobre #FFFFFF / #F6F8F5	~11:1	
+Texto secundário			#6E7E75 sobre #FFFFFF		~4.6:1	
+Texto secundário sobre verde-claro	#6E7E75 sobre #EAF3EB		~4.1:1	
+Texto de ajuda em cinza			#6E7E75 sobre #F6F8F5		~4.3:1	
+Texto branco sobre botão		#FFFFFF sobre #287253		~5.2:1	
+Texto verde (links)			#287253 sobre #FFFFFF / #EAF3EB	~4.7–5.2:1
+Contexto sobre indicador verde		#D7E8D9 sobre #287253		~3.6:1
+Placeholder de input			#6E7E75 sobre #FFFFFF		~4.6:1
+
+Letra 
+
+Fonte	Inter (sans-serif)
+Tamanho mínimo de texto	10px
+Texto de corpo		14px
+Títulos			28–57px
+Altura de linha		150%–170%
+Peso da fonte		400/500/600/700
+Inputs e placeholders	14px 
+Unidades		px fixos 
+
+Mobile
+
+Largura base	390px
+Alvos táteis (botões)	46px altura 
+Alvos táteis (checkbox)	17×17px 
+Alvos táteis (ícones)	16–19px 
+Navegação inferior	88.5×76px por destino 
+Inputs			48px altura , 14px fonte 
+Layout flexível (column)
+
